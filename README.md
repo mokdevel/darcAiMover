@@ -1,7 +1,7 @@
 # darcAiMover
 An Arma 3 AI mover to headless clients. This is only needed on server and NOT on headless clients.
 
-Feel free to steal or improve the code. Credits can be given to #darc# (that's me).
+Feel free to steal or improve the code. Credits can be given to *darc* (that's me).
 
 ## What is so special?
 The naked guys issue. 
