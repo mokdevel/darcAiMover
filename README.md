@@ -2,7 +2,7 @@
 An Arma 3 AI mover to headless clients. This is only needed on server and NOT on headless clients.
 
 ## How to test
-In short - no guide here. :-)
+In short - no detailed guide here. :-)
 - Setup a dedicated Arma 3 server with a mission in virtual reality (player and up to 6 headless client entities)
 - Setup headless client(s) (up to 6)
 - Run Arma server with the mod -servermod=@darcAiMover . This is *NOT* needed on the HCs
