@@ -1,6 +1,16 @@
 # darcAiMover
 An Arma 3 AI mover to headless clients. This is only needed on server and NOT on headless clients.
 
+Feel free to steal or improve the code. Credits can be given to *darc* (that's me).
+
+## What is so special?
+The naked guys issue. 
+If you spawn the AI on the server, make sure they are on the server for eg. 30secs before moving the group to a headless client. Arma needs some time for the AI to settle down or something. Moving them too fast will result in (random) naked guys. 
+
+This AI mover will delay the move of an AI group to a headless client. Check your .rpt for spam.
+
+NOTE: If you spawn the AI locally on the HC, the issue of naked guys does not exist.
+
 ## How to test
 In short - no detailed guide here. :-)
 - Setup a dedicated Arma 3 server with a mission in virtual reality (player and up to 6 headless client entities)
